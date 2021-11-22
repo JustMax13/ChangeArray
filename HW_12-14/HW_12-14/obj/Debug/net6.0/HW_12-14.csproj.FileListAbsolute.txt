@@ -1,0 +1,16 @@
+D:\source\repos\HW_12-14\HW_12-14\bin\Debug\net6.0\HW_12-14.exe
+D:\source\repos\HW_12-14\HW_12-14\bin\Debug\net6.0\HW_12-14.deps.json
+D:\source\repos\HW_12-14\HW_12-14\bin\Debug\net6.0\HW_12-14.runtimeconfig.json
+D:\source\repos\HW_12-14\HW_12-14\bin\Debug\net6.0\HW_12-14.dll
+D:\source\repos\HW_12-14\HW_12-14\bin\Debug\net6.0\ref\HW_12-14.dll
+D:\source\repos\HW_12-14\HW_12-14\bin\Debug\net6.0\HW_12-14.pdb
+D:\source\repos\HW_12-14\HW_12-14\obj\Debug\net6.0\HW_12-14.GlobalUsings.g.cs
+D:\source\repos\HW_12-14\HW_12-14\obj\Debug\net6.0\HW_12-14.csproj.AssemblyReference.cache
+D:\source\repos\HW_12-14\HW_12-14\obj\Debug\net6.0\HW_12-14.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\HW_12-14\HW_12-14\obj\Debug\net6.0\HW_12-14.AssemblyInfoInputs.cache
+D:\source\repos\HW_12-14\HW_12-14\obj\Debug\net6.0\HW_12-14.AssemblyInfo.cs
+D:\source\repos\HW_12-14\HW_12-14\obj\Debug\net6.0\HW_12-14.csproj.CoreCompileInputs.cache
+D:\source\repos\HW_12-14\HW_12-14\obj\Debug\net6.0\HW_12-14.dll
+D:\source\repos\HW_12-14\HW_12-14\obj\Debug\net6.0\ref\HW_12-14.dll
+D:\source\repos\HW_12-14\HW_12-14\obj\Debug\net6.0\HW_12-14.pdb
+D:\source\repos\HW_12-14\HW_12-14\obj\Debug\net6.0\HW_12-14.genruntimeconfig.cache
